@@ -30,7 +30,48 @@ Stanford became my home base, where I would go to hang out between meetings alon
 
 --------
 
-<img src="/posts/2014-04-05-olympus/images/" class="bigimgcontainer">
+<img src="/posts/2014-04-05-olympus/images/newtonmas/test-tube-candles.jpg" class="bigimgcontainer">
+
+<div id="carousel-newtonmas" class="carousel slide">
+<!-- Indicators -->
+<ol class="carousel-indicators">
+<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+</ol>
+
+<!-- Wrapper for slides -->
+<div class="carousel-inner">
+<div class="item active">
+  <img src="/posts/2014-04-05-olympus/images/newtonmas/carousel/trees0.jpg" alt="">
+  <div class="carousel-caption">
+    slide 1
+  </div>
+</div>
+<div class="item">
+  <img src="/posts/2014-04-05-olympus/images/newtonmas/carousel/trees1.jpg" alt="">
+  <div class="carousel-caption">
+    slide 2
+  </div>
+</div>
+<div class="item">
+  <img src="http://placehold.it/900x500" alt="">
+  <div class="carousel-caption">
+    slide 3
+  </div>
+</div>
+</div>
+
+<!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+
+
 
 
 --------
